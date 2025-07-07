@@ -1,0 +1,125 @@
+{
+  "Język Java": {
+    "Co to jest klasa abstrakcyjna i interfejs w Javie": "",
+    "Proszę omówić dostępne sposoby synchronizacji wątków w Javie": "",
+    "Czy Java jest językiem kompilowanym czy interpretowanym?": "",
+    "Co to jest JDBC?": "",
+    "Co to jest serializacja? Jak zrealizować serializację w Javie?": ""
+  },
+  "Fizyka": {
+    "Skąd biorą się równania różniczkowe zwyczajne w fizyce?": "",
+    "Przykłady równań różniczkowych cząstkowych w fizyce": "",
+    "Podać najważniejsze zasady zachowania wielkości fizycznych": ""
+  },
+  "Bazy danych": {
+    "Normalizacja baz danych - jej cel i wpływ na wydajność": "",
+    "Klucze główne, obce i wyzwalacze": "",
+    "Transakcje i zasady ACID": ""
+  },
+  "Inżynieria oprogramowania": {
+    "Wymień znane Ci paradygmaty programowania i scharakteryzuj jeden z nich": "",
+    "Wymień i omów 6 najlepszych praktyk IO": "",
+    "Inżynieria wymagań: co to jest wymaganie i jakie warunki powinna spełniać dobra specyfikacja wymagań": "",
+    "Co to jest refaktoryzacja, po co i kiedy ją stosować? Podaj przykład kodu 'bad smell' i możliwy sposób na poprawienie go": "",
+    "Po co mierzymy oprogramowanie? Co mierzymy? Wymień znane ci metryki produktu": ""
+  },
+  "Język C++": {
+    "Co to jest konstruktor i destruktor?": "",
+    "Jakie znasz typy dziedziczenia?": "",
+    "Podaj przykłady kontenerów sekwencyjnych": ""
+  },
+  "Matematyka dyskretna": {
+    "Twierdzenie Halla i algorytm łączenia w pary": "",
+    "Omów metody obliczania sum skończonych": "",
+    "Trójkąt Stirlinga (dla podziałów) i liczby Bella": ""
+  },
+  "Grafika komputerowa": {
+    "Fizjologia wzroku, prawa Grassmanna": "",
+    "Porównanie addytywnego i substraktywnego modelu koloru": "",
+    "Grafika rastrowa i grafika wektorowa": "",
+    "Metody kompresji obrazów rastrowych": "",
+    "Transformacje afiniczne na płaszczyźnie": ""
+  },
+  "Rekonfigurowalne układy FPGA": {
+    "Od czego zależy maksymalna częstotliwość działania kodu HDL na układzie FPGA. Podać wzór i go omówić": "",
+    "Omówić etapy kompilacji kodu HDL": "",
+    "Opisać elementy kodu VHDL: entity, architecture, process, maszyna stanów, package": ""
+  },
+  "Algorytmy i struktury danych I": {
+    "Lista - definicja, sposoby reprezentowania": "",
+    "Złożoność obliczeniowa": "",
+    "Drzewa, drzewa binarne, algorytmy przeglądania drzew: inorder, postorder, preorder": ""
+  },
+  "Algorytmy i struktury danych II": {
+    "Grafy - definicja, sposoby reprezentowania grafu": "",
+    "Algorytmy przeszukiwania grafu BFS i DFS": "",
+    "Algorytm Dijkstry": ""
+  },
+  "Systemy operacyjne": {
+    "System operacyjny i jego podstawowe zadania, najważniejsze typy struktur systemów operacyjnych i ich przykłady": "",
+    "Procesy i wątki w systemach operacyjnych, w tym planowanie przydziału CPU, komunikacja i synchronizacja, modele/schematy wielowątkowości": "",
+    "Zarządzanie pamięcią w systemach operacyjnych, w tym przestrzenie adresowe, podstawowe metody przydziału pamięci, pamięć wirtualna": "",
+    "Składowe systemu plików, własności pliku i katalogu oraz podstawowe struktury i metody używane przez system operacyjny do zarządzania nimi": "",
+    "Ochrona i bezpieczeństwo w systemach operacyjnych, w tym domeny ochrony, macierz dostępów, zagrożenia systemów komputerowych i zapobieganie im": ""
+  },
+  "Wstęp do architektury komputerów": {
+    "Elementy rozkazu maszynowego i cykl wykonywania rozkazu": "",
+    "Rola przerwań": "",
+    "Główne cechy architektury komputerów von Neumana": ""
+  },
+  "Elektronika cyfrowa": {
+    "Praca wzmacniacza operacyjnego w układach sprzężenia zwrotnego": "",
+    "Złożone układy logiczne (układy kombinacyjne), typowe przykłady": "",
+    "Układy sekwencyjne, typowe przykłady": ""
+  },
+  "Podstawy informatyki": {
+    "Wymień i scharakteryzuj poznane metody programowania. Dla każdej metody podaj przykładowy problem i sposób jego rozwiązania": "",
+    "Co oznacza, że algorytm jest częściowo poprawny, ma własność STOPu oraz kiedy mówimy, że algorytm jest całkowicie poprawny?": "",
+    "Porównaj język maszynowy, język symboliczny i języki programowania wysokiego poziomu. Dlaczego mamy tak wiele języków programowania i co je różni?": ""
+  },
+  "Język C": {
+    "Operacje na wskaźnikach w języku C": "",
+    "Podstawowe klasy pamięci zmiennych w C": "",
+    "Kwalifikator 'static'": ""
+  },
+  "Logika i teoria mnogości": {
+    "Relacje równoważności i klasy abstrakcji": "",
+    "Prawa rozkładu kwantyfikatorów względem alternatywy i koniunkcji": "",
+    "Własności obrazu i przeciwobrazu sumy i przecięcia zbiorów": ""
+  },
+  "Rachunek prawd. i statystyka": {
+    "Funkcja gęstości prawdopodobieństwa i dystrybuanta i ich własności na podstawie rozkładu normalnego. Szczególne własności i rola rozkładu normalnego.": "",
+    "Metody generowania liczb pseudolosowych o zadanym rozkładzie prawdopodobieństwa, w szczególności: a) generacja liczb o rozkładzie jednorodnym i b) generacja metodą odwracania dystrybuanty": "",
+    "Współczynnik korelacj dwóch zmiennych losowych X i Y - definicja, interpretacja, własności i sposób obliczania (dokładnie i estymacja)": ""
+  },
+  "Semantyczny internet": {
+    "Przedstaw warstwowy model semantycznego internetu, omów krótko najważniejsze elementy i role jaką pełnią": "",
+    "Przedstaw ogólną strukturę trójek RDF, co oznaczają poszczególne elementy, jak wygląda ich model grafowy": "",
+    "Co to jest ontologia, z czego się składa, jakie ma możliwości, jak się ją buduje": ""
+  },
+  "Sieci komputerowe": {
+    "Omów działanie protokołu ARP, Proxy-ARP i zastosowanie bramy domyślnej": "",
+    "Podziel prefiks IPv4 klasy C 192.168.1.0/24 na podsieci ze stałą i zmienną maską": "",
+    "Omów funkcje protokołu TCP i inicjalizację połączenia TCP": ""
+  },
+  "Wstęp do telekomunikacji": {
+    "Omów rodzaje komutacji": "",
+    "Co to jest sygnalizacja w sieciach telekomunikacyjnych i jakie są jej rodzaje?": "",
+    "Jak dzielimy usługi telekomunikacyjne?": ""
+  },
+  "Teoria jęz. form. i metody translacji": {
+    "Hierarchia Chomsky'ego gramatyk ciągowych i automaty potrzebne do rozpoznawania języków generowanych przez te gramatyki": "",
+    "Równoważność deterministycznych i niedeterministycznych automatów skończenie stanowych": "",
+    "Definicja i rodzaje parserów": ""
+  },
+  "Systemy pomiarowo kontrolne": {
+    "Podać najważniejsze różnice w kodowaniu liczb binarnych w notacji U1 i U2": "",
+    "Omówić ogólną zasadę działania przetwornika ADC zbudowanego w oparciu o przetwornik DAC": "",
+    "Omówić sposób transmisji danych przez interfejs USB": ""
+  },
+  "Wprowadzenie do analityki danych": {
+    "Omów  metodę regresji liniowej jako przykład  techniki znajdowania parametrycznego  modelu danych opisywanego przy pomocy listy zmiennych charakterystycznych": "",
+    "Problem klasyfikacji obiektów. Jakie znasz techniki": "",
+    "Problem grupowania obiektów. Jakie znasz algorytmy grupujące (klastrujące)": ""
+  }
+}

@@ -22,3 +22,13 @@ button {
   margin: 10px;
   border: solid;
 }
+html, body {
+  width: 100%;
+  height: 100%;
+}
+textarea {
+  border: 0;
+  border-bottom: 1px solid var(--main-middle);
+  border-radius: 0;
+  resize: none;
+}
