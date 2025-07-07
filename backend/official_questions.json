@@ -1,0 +1,165 @@
+{
+  "Język Java": {
+    "1": "Co to jest klasa abstrakcyjna i interfejs w Javie",
+    "2": "Proszę omówić dostępne sposoby synchronizacji wątków w Javie",
+    "3": "Czy Java jest językiem kompilowanym czy interpretowanym?",
+    "4": "Co to jest JDBC?",
+    "5": "Co to jest serializacja? Jak zrealizować serializację w Javie?"
+  },
+  "Fizyka": {
+    "6": "Skąd biorą się równania różniczkowe zwyczajne w fizyce?",
+    "7": "Przykłady równań różniczkowych cząstkowych w fizyce",
+    "8": "Podać najważniejsze zasady zachowania wielkości fizycznych"
+  },
+  "Bazy danych": {
+    "9": "Normalizacja baz danych - jej cel i wpływ na wydajność",
+    "10": "Klucze główne, obce i wyzwalacze",
+    "11": "Transakcje i zasady ACID"
+  },
+  "Inżynieria oprogramowania": {
+    "12": "Wymień znane Ci paradygmaty programowania i scharakteryzuj jeden z nich",
+    "13": "Wymień i omów 6 najlepszych praktyk IO",
+    "14": "Inżynieria wymagań: co to jest wymaganie i jakie warunki powinna spełniać dobra specyfikacja wymagań",
+    "15": "Co to jest refaktoryzacja, po co i kiedy ją stosować? Podaj przykład kodu 'bad smell' i możliwy sposób na poprawienie go",
+    "16": "Po co mierzymy oprogramowanie? Co mierzymy? Wymień znane ci metryki produktu"
+  },
+  "Język Python": {
+    "17": "Programowanie obiektowe w języku Python",
+    "18": "Tworzenie i korzystanie z wyjątków w języku Python",
+    "19": "Typy zmienne i niezmienne, hashowalne i niehashowalne w Pythonie"
+  },
+  "Język C++": {
+    "20": "Co to jest konstruktor i destruktor?",
+    "21": "Jakie znasz typy dziedziczenia?",
+    "22": "Podaj przykłady kontenerów sekwencyjnych"
+  },
+  "Matematyka dyskretna": {
+    "23": "Twierdzenie Halla i algorytm łączenia w pary",
+    "24": "Omów metody obliczania sum skończonych",
+    "25": "Trójkąt Stirlinga (dla podziałów) i liczby Bella"
+  },
+  "Zaaw. techniki prog. obiektowego w C++": {
+    "26": "Objaśnij działanie inteligentnych wskaźników na przykładzie unique_ptr oraz shared_ptr",
+    "27": "Klasy cech w programowaniu generycznym na przykładzie std::numeric_limits",
+    "28": "Metaprogramowanie na przykładzie szablonu funkcji potęgowania całkowitego"
+  },
+  "Grafika komputerowa": {
+    "29": "Fizjologia wzroku, prawa Grassmanna",
+    "30": "Porównanie addytywnego i substraktywnego modelu koloru",
+    "31": "Grafika rastrowa i grafika wektorowa",
+    "32": "Metody kompresji obrazów rastrowych",
+    "33": "Transformacje afiniczne na płaszczyźnie"
+  },
+  "Programowanie sieciowe": {
+    "34": "Czym, z punktu widzenia aplikacji, różnią się strumieniowa i datagramowa transmisja danych?",
+    "35": "Jaka jest rola protokołu TLS i jakie gwarancje bezpieczeństwa daje?",
+    "36": "Dlaczego standardy zdalnego wywołania procedury (RPC) zazwyczaj mają formalne języki, w których można opisać interfejs zdalnie wywoływanej usługi?"
+  },
+  "Rekonfigurowalne układy FPGA": {
+    "37": "Od czego zależy maksymalna częstotliwość działania kodu HDL na układzie FPGA. Podać wzór i go omówić",
+    "38": "Omówić etapy kompilacji kodu HDL",
+    "39": "Opisać elementy kodu VHDL: entity, architecture, process, maszyna stanów, package"
+  },
+  "Algorytmy i struktury danych I": {
+    "40": "Lista - definicja, sposoby reprezentowania",
+    "41": "Złożoność obliczeniowa",
+    "42": "Drzewa, drzewa binarne, algorytmy przeglądania drzew: inorder, postorder, preorder"
+  },
+  "Algorytmy i struktury danych II": {
+    "43": "Grafy - definicja, sposoby reprezentowania grafu",
+    "44": "Algorytmy przeszukiwania grafu BFS i DFS",
+    "45": "Algorytm Dijkstry"
+  },
+  "Systemy operacyjne": {
+    "46": "System operacyjny i jego podstawowe zadania, najważniejsze typy struktur systemów operacyjnych i ich przykłady",
+    "47": "Procesy i wątki w systemach operacyjnych, w tym planowanie przydziału CPU, komunikacja i synchronizacja, modele/schematy wielowątkowości",
+    "48": "Zarządzanie pamięcią w systemach operacyjnych, w tym przestrzenie adresowe, podstawowe metody przydziału pamięci, pamięć wirtualna",
+    "49": "Składowe systemu plików, własności pliku i katalogu oraz podstawowe struktury i metody używane przez system operacyjny do zarządzania nimi",
+    "50": "Ochrona i bezpieczeństwo w systemach operacyjnych, w tym domeny ochrony, macierz dostępów, zagrożenia systemów komputerowych i zapobieganie im"
+  },
+  "Wstęp do architektury komputerów": {
+    "51": "Elementy rozkazu maszynowego i cykl wykonywania rozkazu",
+    "52": "Rola przerwań",
+    "53": "Główne cechy architektury komputerów von Neumana"
+  },
+  "Elektronika cyfrowa": {
+    "54": "Praca wzmacniacza operacyjnego w układach sprzężenia zwrotnego",
+    "55": "Złożone układy logiczne (układy kombinacyjne), typowe przykłady",
+    "56": "Układy sekwencyjne, typowe przykłady"
+  },
+  "Podstawy informatyki": {
+    "57": "Wymień i scharakteryzuj poznane metody programowania. Dla każdej metody podaj przykładowy problem i sposób jego rozwiązania",
+    "58": "Co oznacza, że algorytm jest częściowo poprawny, ma własność STOPu oraz kiedy mówimy, że algorytm jest całkowicie poprawny?",
+    "59": "Porównaj język maszynowy, język symboliczny i języki programowania wysokiego poziomu. Dlaczego mamy tak wiele języków programowania i co je różni?"
+  },
+  "Język C": {
+    "60": "Operacje na wskaźnikach w języku C",
+    "61": "Podstawowe klasy pamięci zmiennych w C",
+    "62": "Kwalifikator 'static'"
+  },
+  "Logika i teoria mnogości": {
+    "63": "Relacje równoważności i klasy abstrakcji",
+    "64": "Prawa rozkładu kwantyfikatorów względem alternatywy i koniunkcji",
+    "65": "Własności obrazu i przeciwobrazu sumy i przecięcia zbiorów"
+  },
+  "Rachunek prawd. i statystyka": {
+    "66": "Funkcja gęstości prawdopodobieństwa i dystrybuanta i ich własności na podstawie rozkładu normalnego. Szczególne własności i rola rozkładu normalnego.",
+    "67": "Metody generowania liczb pseudolosowych o zadanym rozkładzie prawdopodobieństwa, w szczególności: a) generacja liczb o rozkładzie jednorodnym i b) generacja metodą odwracania dystrybuanty",
+    "68": "Współczynnik korelacj dwóch zmiennych losowych X i Y - definicja, interpretacja, własności i sposób obliczania (dokładnie i estymacja)"
+  },
+  "Interfejsy graficzne": {
+    "69": "Omów główne założenia iteracyjnego/spiralnego modelu projektowania, podaj przykłady, wady i zalety",
+    "70": "Omów 'trójkąt wpływu' na projektowanie interfejsu użytkownika (człowiek/technologia/zadanie). Podaj przykład",
+    "71": "Przedstaw metody testowania interfejsu użytkownika, omów dokładniej jedną z nich"
+  },
+  "Semantyczny internet": {
+    "72": "Przedstaw warstwowy model semantycznego internetu, omów krótko najważniejsze elementy i role jaką pełnią",
+    "73": "Przedstaw ogólną strukturę trójek RDF, co oznaczają poszczególne elementy, jak wygląda ich model grafowy",
+    "74": "Co to jest ontologia, z czego się składa, jakie ma możliwości, jak się ją buduje"
+  },
+  "Sieci komputerowe": {
+    "75": "Omów działanie protokołu ARP, Proxy-ARP i zastosowanie bramy domyślnej",
+    "76": "Podziel prefiks IPv4 klasy C 192.168.1.0/24 na podsieci ze stałą i zmienną maską",
+    "77": "Omów funkcje protokołu TCP i inicjalizację połączenia TCP"
+  },
+  "Wstęp do telekomunikacji": {
+    "78": "Omów rodzaje komutacji",
+    "79": "Co to jest sygnalizacja w sieciach telekomunikacyjnych i jakie są jej rodzaje?",
+    "80": "Jak dzielimy usługi telekomunikacyjne?"
+  },
+  "Podstawy transmisji danych": {
+    "81": "Omów właściwości widmowe sygnału",
+    "82": "Omów kodowanie źródłowe",
+    "83": "Omów kodowanie transmisyjne"
+  },
+  "Teoria jęz. form. i metody translacji": {
+    "84": "Hierarchia Chomsky'ego gramatyk ciągowych i automaty potrzebne do rozpoznawania języków generowanych przez te gramatyki",
+    "85": "Równoważność deterministycznych i niedeterministycznych automatów skończenie stanowych",
+    "86": "Definicja i rodzaje parserów"
+  },
+  "Techniki WWW": {
+    "87": "Omów protokół komunikacyjny HTTP(S) oraz scharakteryzuj jego podstawowe metody",
+    "88": "Scharakteryzuj i omów podstawowe cechy języków znacznikowych HTML i CSS oraz omów ich rolę w kontekście tworzenia responsywnych stron internetowych RWD",
+    "89": "Omów i scharakteryzuj podstawowe elementy języka skryptowego JavaScript (standard ECMAScript 2015 (ES6)) oraz jego zastosowania w kontekście tworzenia aplikacji internetowych"
+  },
+  "Systemy pomiarowo kontrolne": {
+    "90": "Podać najważniejsze różnice w kodowaniu liczb binarnych w notacji U1 i U2",
+    "91": "Omówić ogólną zasadę działania przetwornika ADC zbudowanego w oparciu o przetwornik DAC",
+    "92": "Omówić sposób transmisji danych przez interfejs USB"
+  },
+  "Język Fortran 90/95": {
+    "93": "Podstawowe bloki konstrukcyjne Fortranu, komunikacja pomiędzy nimi",
+    "94": "Wskaźniki i dynamiczne struktury danych",
+    "95": "Przenoszalność (powtarzalność) złożonych obliczeń na różne maszyny, unikalność tych narzędzi w języku Fortran. Parametryzowane typy danych (zakres wartości, precyzja)"
+  },
+  "Systemy czasu rzeczywistego": {
+    "99": "Proszę opisać, na czym polega szeregowanie zadań w systemie czasu rzeczywistego oraz opisać algorytm szeregowania EDF",
+    "100": "Proszę opisać problem odwrócenia priorytetów zadań i jak się go rozwiązuje",
+    "101": "Proszę opisać proces zarządzania czasem w komputerze, zaczynając od generatora impulsów znajdującego się na płycie głównej do wykonania funkcji Wait(ms) wywołanej w wykonywanym wątku"
+  },
+  "Wprowadzenie do analityki danych": {
+    "102": "Omów  metodę regresji liniowej jako przykład  techniki znajdowania parametrycznego  modelu danych opisywanego przy pomocy listy zmiennych charakterystycznych",
+    "103": "Problem klasyfikacji obiektów. Jakie znasz techniki",
+    "104": "Problem grupowania obiektów. Jakie znasz algorytmy grupujące (klastrujące)"
+  }
+}

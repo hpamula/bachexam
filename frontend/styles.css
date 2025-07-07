@@ -1,0 +1,24 @@
+:root {
+  --main-bg: #000;
+  --main-middle: #555;
+  --main-font: #fff;
+  --main-accent: #00aaff;
+}
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  border-radius: 16px;
+  font-size: 16px;
+  font-family: monospace;
+  border-color: var(--main-middle);
+  border-width: 1px;
+  background-color: var(--main-bg);
+  color: var(--main-font);
+  outline: none;
+}
+button {
+  padding: 10px;
+  margin: 10px;
+  border: solid;
+}
