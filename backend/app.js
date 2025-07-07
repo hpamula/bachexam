@@ -13,8 +13,8 @@ app.use((req, res, next) => {
 app.use(express.json());
 app.use(express.static(path.join(__dirname, '../frontend')));
 
-app.post('/api/activity', (req, res) => {
-  res.json({ got: req.body, 'server time': new Date().toISOString() });
+app.get('/api/my_questions', (req, res) => {
+  res.sendFile(`${__dirname}/data/my_questions.json`);
 });
 app.use((req, res) => {res.status(404).send(`<h1>Page does not exist</h1>`)});
 
