@@ -19,8 +19,7 @@ app.get('/api/my_subjects', (req, res) => {
 });
 app.get('/api/question', (req, res) => {
   const subject = req.query.subject; // e.g. /api/question?subject=Fizyka
-
-  fs.readFile(`${__dirname}/data/my_answered_perplexity_llm.json`, 'utf-8', (err, data) => {
+  fs.readFile(`${__dirname}/data/my_answered_mine.json`, 'utf-8', (err, data) => {
     const json = JSON.parse(data);
     if (!subject || !json[subject])
       return res.status(404).json({ error: 'Subject not found.' });
